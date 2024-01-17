@@ -1,0 +1,17 @@
+.zagolovok{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1900px;
+    font-family: Roboto;
+
+
+}
+.img{
+    width: 100px;
+    justify-content: left;
+    
+}
+.profile{
+    width: 40px;
+}
